@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Amazon</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_signup">Amazon</string>
+    <string name="title_activity_log">Amazon</string>
+    <string name="title_activity_shop">Amazon</string>
+    <string name="title_activity_shoplist">Amazon</string>
+    <string name="title_activity_buy">Amazon</string>
+    <string name="title_activity_buyitem">Amazon</string>
+    <string name="phone_number">Amazon</string>
+    <string name="address">Amazon</string>
+    <string name="title_activity_walet">Amazon</string>
+
+</resources>
